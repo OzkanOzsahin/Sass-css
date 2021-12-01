@@ -1,0 +1,24 @@
+$primaryBtn: rgba(126, 22, 22, 0.938); 
+$myPadding: 70px;
+$myColor: yellow;
+
+
+
+
+
+header {
+  background: aqua;
+  display: -ms-flexbox;
+  justify-content:center;
+  
+}/*# sourceMappingURL=style.css.map */
+
+.header button {
+  background: $primaryBtn;
+}
+
+.contact button{
+  background: $primaryBtn;
+}
+
+  

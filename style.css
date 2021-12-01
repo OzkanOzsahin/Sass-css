@@ -1,0 +1,13 @@
+header {
+  background: aqua;
+  display: -ms-flexbox;
+  justify-content: center;
+}
+.header button {
+  background: rgba(126, 22, 22, 0.938);
+}
+
+.contact button {
+  background: rgba(126, 22, 22, 0.938);
+}
+/*# sourceMappingURL=style.css.map *//*# sourceMappingURL=style.css.map */
